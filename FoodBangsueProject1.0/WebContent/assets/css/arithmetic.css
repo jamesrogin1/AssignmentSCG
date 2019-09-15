@@ -1,0 +1,12 @@
+@charset "UTF-8";
+.form-group {
+	margin: 22px;
+	font-size: 2em;
+}
+input[type="text"] {
+	width: 10%;
+	text-align: center;
+}
+#result {
+	display: none;
+}
